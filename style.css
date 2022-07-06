@@ -1,0 +1,136 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+#first-section {
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 480px;
+    padding-top: 80px;
+}
+
+.first-div {
+    text-align: center;
+    font-size: 30px;
+    padding: 0% 10% 10% 10%;
+}
+
+#first-p {
+    font-size: 15px;
+    font-weight: 100;
+    color: white;
+    padding: 0% 30% 0% 30%;
+    text-shadow: 1px 1px black;
+}
+
+#first-h1 {
+    color: white;
+    text-shadow: 2px 4px green;
+}
+
+.donate {
+    text-decoration: none;
+    background-color: #FF5959;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.second-div h1 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 0px;
+    margin-bottom: -6px;
+}
+
+.second-div p {
+    padding: 0% 30% 0% 30%;
+
+    color: grey;
+
+    text-align: center;
+}
+
+.second-div {
+    padding: 10px 10px;
+}
+
+.second-div-2 {
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
+
+.amount {
+    text-decoration: none;
+    background-color: #f0f2f0;
+    padding: 25px;
+    border-radius: 5px;
+    color: grey;
+    font-size: 26px;
+    cursor: pointer;
+    width: 90px;
+    height: 36px;
+    margin: 10px 10px 10px 10px;
+}
+
+.second {
+    border: 2px solid #FF5959;
+    background-color: #FFEEEE;
+    color: tomato;
+}
+
+.fname {
+    border: none;
+    font-size: 18px;
+    padding-left: 5%;
+    color: rgb(175, 174, 173);
+    border-bottom: 1px solid #DADADA;
+    margin-bottom: 30px;
+}
+
+.donate-planner {
+    display: flex;
+}
+
+.box-magic {
+    border: 0px dashed tomato;
+    width: 240px;
+    height: 250px;
+    top: 1590px;
+    left: 160px;
+    border-radius: 5px;
+    padding: 2%;
+    padding-top: 5%;
+    margin-bottom: 50px;
+}
+
+.red {
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+.blue {
+    margin-left: 190px;
+    background-color: rgba(79, 157, 166, 0.1)
+}
+
+.yellow {
+    margin-right: 80px;
+    background-color: rgba(255, 244, 214, 1);
+}
+
+.box-magic p {
+    font-size: 13px;
+
+}
