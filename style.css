@@ -242,6 +242,29 @@ body {
     cursor: pointer;
 }
 
+.gallery {
+    margin: 5px;
+    border: 1px solid orange;
+    float: left;
+    width: 180px;
+}
+
+.gallery {
+    display: flex;
+    border: 1px solid #777;
+
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.photo-gallery {
+    margin-left: 300px;
+}
+
+
 .footer {
     position: bottom;
     left: 0;
@@ -251,6 +274,10 @@ body {
     color: white;
     text-align: center;
 
+}
+
+.photo-gallery h1 {
+    margin-left: 300px;
 }
 
 .footer h2 {
