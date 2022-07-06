@@ -45,9 +45,9 @@ body {
 }
 
 .second-div h1 {
-    font-size: 50px;
+    font-size: 45px;
     text-align: center;
-    padding-top: 60px;
+    padding-top: 20px;
     padding-bottom: 0px;
     margin-bottom: -6px;
 }
@@ -198,4 +198,67 @@ body {
 .right-div {
     margin-right: 250px;
     margin-left: 50px;
+}
+
+.form {
+    text-align: center;
+    background-color: bisque;
+    margin-left: 22%;
+    height: 150px;
+    width: 60%;
+}
+
+.form-div {
+    padding-top: 50px;
+}
+
+.sub-button {
+    background-color: tomato;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    color: white;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.email {
+    background-color: rgb(226, 223, 222);
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+    color: rgb(133, 124, 124);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+
+    cursor: pointer;
+}
+
+.footer {
+    position: bottom;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.footer h2 {
+    padding-top: 20px;
+    color: #FF5959;
+    font-size: 30px;
+}
+
+.footer h5 {
+    padding-bottom: 20px;
 }
