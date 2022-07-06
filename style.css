@@ -132,5 +132,70 @@ body {
 
 .box-magic p {
     font-size: 13px;
+}
 
+.sad-photos {
+    display: flex;
+}
+
+.sad-divs {
+    width: 50%;
+    padding: 50px;
+    padding-left: 32px;
+}
+
+.sad-img {
+    width: 65%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.left-div {
+    padding-left: 160px;
+}
+
+.sad-button {
+    background-color: tomato;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.das-divs {
+    width: 50%;
+    padding-left: 210px;
+}
+
+.ads-divs {
+    width: 50%;
+    padding-left: 160px;
+}
+
+#mid-sad {
+    display: flex;
+}
+
+.das-img {
+    width: 55%;
+    height: auto;
+    padding-left: 190px;
+    border-radius: 5px;
+}
+
+
+.mid-sad {
+    width: 50%;
+}
+
+.right-div {
+    margin-right: 250px;
+    margin-left: 50px;
 }
